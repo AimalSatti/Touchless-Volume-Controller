@@ -2,7 +2,7 @@
 import cv2
 import numpy as np
 import pyautogui
-from gesture_yolo import load_yolo_model
+from test import load_yolo_model
 
 # PyAutoGUI performance tuning delays
 pyautogui.PAUSE = 0.01
